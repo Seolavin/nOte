@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="flat_key_width">80dp</dimen>
+    <dimen name="sharp_key_offset">-30dp</dimen>
+    <dimen name="sharp_key_width">30dp</dimen>
+    <dimen name="sharp_key_length">180dp</dimen>
+    <dimen name="font_size">16sp</dimen>
+</resources>
